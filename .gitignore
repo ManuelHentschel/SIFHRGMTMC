@@ -1,0 +1,11 @@
+
+# Generated folders
+examples
+tikz
+figures
+temp
+tempRLib
+
+# Generated files
+packages.txt
+*.RDS
